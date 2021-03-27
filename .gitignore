@@ -8,3 +8,6 @@ Created on Sat Mar 27 17:13:06 2021
 
 
 cred.py
+.DS_Store
+.cache
+__pycache__/
