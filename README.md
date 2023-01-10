@@ -12,7 +12,7 @@ A python script was written to pull listening habits + trends from one of my pla
 
 ## Dashboard 
 
-Dashboard Link - [https://public.tableau.com/app/profile/bhoneywell/viz/SpotifySongAnalysis_16169005094160/FavoriteSpotifySongs](https://public.tableau.com/app/profile/bhoneywell/viz/SpotifySongAnalysis_16169005094160/FavoriteSpotifySongs)
+Dashboard Link - [Link](https://public.tableau.com/app/profile/bhoneywell/viz/SpotifySongAnalysis_16169005094160/FavoriteSpotifySongs)
 
 ![dashboard image](dashboard_screenshot.png)
 
