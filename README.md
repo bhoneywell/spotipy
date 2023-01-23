@@ -1,4 +1,4 @@
-# autogluon_bike_sharing_prediction
+# Spotify Music Exploration
  
 This is a personal project I did to explore Spotify's API.
 
